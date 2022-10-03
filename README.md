@@ -1,4 +1,4 @@
-# Drum-Kit [![Template Project](https://img.shields.io/badge/Web-App-red)](http://www.gnu.org/licenses/agpl-3.0) [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS%2FJS-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
+# QR Code Generator [![Template Project](https://img.shields.io/badge/Web-App-red)](http://www.gnu.org/licenses/agpl-3.0) [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS%2FJS-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
 
 This is basically a QR Code generator all the styles is given by my metor from ineuron i have just fetched data in  the input field and used an api to get the respective QR code
 
